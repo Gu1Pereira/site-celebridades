@@ -1,0 +1,36 @@
+
+h1{
+    color: rgb(0, 0, 255);
+    font-family: 'Courier New', Courier, monospace
+}
+
+h2{
+    color:  hsla(264, 75%, 56%, 0.823);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+h3{
+    color: hsla(264, 75%, 56%, 0.823);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    
+}
+h4{
+    color: hsla(264, 75%, 56%, 0.823);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+hr{
+    font-family: 'Courier New', Courier, monospace;
+
+}
+p{font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+}
+ul{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+pre{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+img{
+    width: 300px;
+}
